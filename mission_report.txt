@@ -1,0 +1,46 @@
+MISSION REPORT
+{
+  "missions_completed_count": 0,
+  "current_mission": "MilkyWay-Neighbor",
+  "tasks_status": [
+    {
+      "system": "Sys-Zeta-4",
+      "task": "Analyze composition",
+      "done": false,
+      "reward": 200
+    },
+    {
+      "system": "Sys-Alfa-2",
+      "task": "Scan for life",
+      "done": false,
+      "reward": 200
+    }
+  ],
+  "visited_report": {
+    "Andromeda": {
+      "type": "Spiral",
+      "systems": []
+    },
+    "Sombrero": {
+      "type": "Elliptical",
+      "systems": []
+    },
+    "Whirlpool": {
+      "type": "Barred Spiral",
+      "systems": []
+    },
+    "Triangulum": {
+      "type": "Spiral",
+      "systems": []
+    },
+    "MilkyWay-Neighbor": {
+      "type": "Irregular",
+      "systems": []
+    }
+  },
+  "score": 0,
+  "distance_traveled_AU": 0.0,
+  "energy_consumed": 0.0,
+  "fuel_remaining": 1000.0,
+  "timestamp": "2025-11-03 23:00:05"
+}
