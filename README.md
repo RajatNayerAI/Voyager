@@ -1,6 +1,6 @@
-# Voyager — The Starfield Odyssey (Hackathon Edition)
+# Voyager — The Galactic Odyssey 
 
-A small terminal-based starfield and mission demo written in Python using curses.
+A terminal-based starfield and mission demo written in Python using curses.
 
 This single-file project (`starfield.py`) renders an animated starfield, mission objectives, a small HUD, and simple interactions (scan, warp, pickup). The UI is designed to look arcade-like in a modern terminal.
 
